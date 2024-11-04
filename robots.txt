@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqureaze.github.io/JCP/sitemap_index.txt
+Sitemap: https://uqureaze.github.io/Sau/sitemap_index.txt
+Sitemap: https://uqureaze.github.io/fWc/sitemap_index.txt
+Sitemap: https://uqureaze.github.io/iqh/sitemap_index.txt
